@@ -1,2 +1,0 @@
-# Timbiriche
-Un pequeño juego
