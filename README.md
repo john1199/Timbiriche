@@ -1,2 +1,2 @@
 # Timbiriche
-Un pequeño juego
+Un pequeño juego realizado en processing
