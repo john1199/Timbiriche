@@ -1,7 +1,7 @@
 //John Jairo Riaño Martinez
 /*
-INSTRUCCIONES v:
- Profe se demora un poco en iniciar por el sonido que agregue pero no vi mas errores 
+INSTRUCCIONES v: 
+ Demora un poco en iniciar por el sonido que agregue pero no vi mas errores 
  -Click derecho lineas horizontales  |
  -Click izquierdo lineas verticales  --
  
