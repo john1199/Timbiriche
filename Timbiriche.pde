@@ -6,7 +6,7 @@ INSTRUCCIONES v:
  -Click izquierdo lineas verticales  --
  
  */
-/*El tamaño del tablero se modifica cambiando los valores en la funcion size siempre y cuando se cumplan los limites esclarecidos*/
+/*El tamaño del tablero se modifica cambiando los valores en la funcion size siempre y cuando se cumplan los limites establecidos*/
 
 import ddf.minim.*;
 Minim soundengine;
